@@ -1,3 +1,7 @@
+Dark Magic Project currently in Progress =)
+
+![](https://thumbs.gfycat.com/QueasyUnnaturalBustard-small.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
