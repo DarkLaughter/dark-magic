@@ -1,4 +1,5 @@
-Dark Magic Project currently in Progress =)
+Dark Magic Project will be an music player with built in themes
+and is Currently in Progress =)
 
 ![](https://thumbs.gfycat.com/QueasyUnnaturalBustard-small.gif)
 
